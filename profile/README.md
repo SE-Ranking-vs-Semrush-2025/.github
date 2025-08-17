@@ -10,6 +10,8 @@
 
 ¿Estás buscando la herramienta SEO perfecta pero te sientes abrumado por la elección entre el gigante de la industria, **Semrush**, y el retador con una increíble relación calidad-precio, **SE Ranking**? No estás solo. Ambas son plataformas "todo-en-uno" increíblemente potentes, pero están diseñadas para públicos muy diferentes.
 
+<img width="2386" height="1374" alt="image" src="https://github.com/user-attachments/assets/d1e82587-9f15-403a-b71c-d5b4947a4e5c" />
+
 Elegir la incorrecta puede significar pagar de más por funciones que no usas o, peor aún, quedarte corto en las herramientas que realmente necesitas para crecer.
 
 En este post, vamos a desglosar de forma clara y directa las diferencias clave para que puedas tomar una decisión informada y segura.
